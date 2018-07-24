@@ -22,3 +22,6 @@ Control panel -> Power options -> Balanced -> Change plan settings -> Change adv
 Change "Plugged in" to like 80% (maybe 90% also does the job) to silence your fan
 Change "On battery" to for example to 50% to double your roof life. Needless to say, your compile times will go up a bit :)
 Change "On battery" to 25% or lower if you plan long meetings with your laptop :)
+
+## How does it work
+The PowerScheduler windows service changes the power plan to *Balanced* every 60 seconds.
