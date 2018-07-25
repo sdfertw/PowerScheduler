@@ -12,7 +12,7 @@ Or if you happen to be on meetings all day long and you want to get hours of bat
 
 * Change the settings of the Balanced power profile.
 * Compile the project.
-* Install the service "installutil powerscheduler.exe"
+* Install the service "installutil powerscheduler.exe" in "Developer Command Prompt" as Administrator
 * You need to start it with "net start powerscheduler" or restart computer (I dunno why Start/Stop is disabled in the Services)
 
 ## What power settings you want to use to silence the fan, code on the roof, enjoy long meetings...
